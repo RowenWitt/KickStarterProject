@@ -1,0 +1,9 @@
+data/
+
+PreProcessing/*.json
+
+*.csv
+
+*.json
+
+*.pkl
