@@ -6,6 +6,9 @@ name = "pypi"
 [packages]
 pandas = "*"
 tensorflow = "*"
+eli5 = "*"
+jupyter = "*"
+shap = "*"
 
 [dev-packages]
 
